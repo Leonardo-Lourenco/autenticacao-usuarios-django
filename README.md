@@ -1,8 +1,10 @@
 # autenticacao-usuarios-django
-Autenticação de Usuários com Python, Django e Bootstrap
+Autenticação de Usuários com Python, Django e Bootstrap.
+
+Neste projeto iremos de autenticação de usuários foi criado 2 formulários 1 para criar uma conta e outra para logar na aplicação, usamos bootstrap para estilizar os fomrmulários.
 
 
-
+<br>
 
 ![Captura de tela de 2022-11-13 08-33-02](https://user-images.githubusercontent.com/27355729/201519683-432669be-06ec-42dc-9d46-9392cdc1bac6.png)
 
